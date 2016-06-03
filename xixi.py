@@ -133,7 +133,7 @@ def create_excel():
     wb.save('IT橘子项目融资爬取.xlsx')
 
 if __name__=='__main__':
-    # create_excel()
+    create_excel()
     itjuzi_spider()
 
 
